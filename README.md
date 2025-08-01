@@ -37,7 +37,7 @@ This project explores residential property sales in London from 2000 to 2015. Us
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/speco29/housing-sales-london.git
+   git clone https://github.com/speco29/Housing_sales_Analysis.git
     ```
 
 ## 📌 Notes
