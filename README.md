@@ -3,7 +3,7 @@
 This project explores residential property sales in London from 2000 to 2015. Using Python and pandas, it uncovers pricing trends, property type distributions, and borough-level patterns to offer insight into the city's evolving housing market.
  
 ---
- 
+  
 ## 🧮 Key Analyses & Insights
 
 - 🔍 **Most Common Property Type**: Identify the most frequently sold property type
