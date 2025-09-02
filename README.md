@@ -7,7 +7,7 @@ This project explores residential property sales in London from 2000 to 2015. Us
 ## 🧮 Key Analyses & Insights
 
 - 🔍 **Most Common Property Type**: Identify the most frequently sold property type
-- 💸 **Price Extremes**:
+- 💸 **Price Extremes**: 
   - Most expensive house overall
   - Cheapest unit across all years
   - Cheapest unit sold in 2008
